@@ -19,5 +19,5 @@ npm i
 ```
 # How to run
 ```
-npm strat
+npm start
 ```
